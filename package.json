@@ -1,0 +1,9 @@
+{
+    "name": "normal-state-fix",
+    "version": "0.1.0",
+    "description": "A Signal K plugin to enforce empty method for normal state notifications",
+    "main": "index.js",
+    "author": RayJr",
+    "license": "GNU",
+    "dependencies": {}
+}
